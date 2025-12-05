@@ -1,0 +1,3 @@
+class SubscribeRemoteSource {
+  SubscribeRemoteSource();
+}
